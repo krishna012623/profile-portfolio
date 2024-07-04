@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header, section {
+    padding: 20px;
+    margin: 10px;
+    border-bottom: 1px solid #ddd;
+}
+h1, h2 {
+    color: #333;
+}
